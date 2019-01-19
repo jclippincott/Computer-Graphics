@@ -1,0 +1,11 @@
+10
+20 Apple
+10 Orange
+30 Banana
+34 Strawberry
+18 Blueberry
+33 Kiwi
+50 Mango
+24 Peach
+45 Pineapple
+25 Watermelon
